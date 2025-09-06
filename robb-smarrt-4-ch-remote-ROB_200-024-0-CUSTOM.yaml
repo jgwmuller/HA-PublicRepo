@@ -18,9 +18,10 @@ blueprint:
     Make sure to select the correct sensor for the remote.
 
     '
+    
   domain: automation
-  Author: Bart Eversdijk
-  source_url: https://github.com/Bekkie/ha-blueprints/blob/main/automation/robb-smarrt-4-ch-remote-ROB_200-024-0.yaml
+  author: Bart Eversdijk
+  source_url: https://github.com/jgwmuller/HA-PublicRepo/edit/main/robb-smarrt-4-ch-remote-ROB_200-024-0-CUSTOM.yaml
   input:
     remote:
       name: Remote
